@@ -1,0 +1,4 @@
+pyaudio
+pyttsx3
+SpeechRecegnition
+wikipedia
